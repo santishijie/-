@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="6px" viewBox="0 0 10 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Templates-模板页面" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.65">
+        <g id="工作台" transform="translate(-230.000000, -159.000000)" fill="#FFFFFF">
+            <path d="M239.87489,164.165272 L235.432165,159.191306 C235.323996,159.07042 235.161092,159 234.987762,159 C234.815735,159 234.651527,159.07042 234.544662,159.191306 L230.125395,164.144146 C229.928607,164.364794 229.967704,164.68755 230.212712,164.864773 C230.45772,165.041995 230.81611,165.006785 231.012898,164.786137 L234.989065,160.330929 L238.987387,164.808437 C239.184175,165.029085 239.542565,165.064295 239.787573,164.887072 C239.927019,164.784964 240,164.637083 240,164.486854 C240,164.374183 239.958297,164.260338 239.87489,164.165272 Z" id="Shape-Copy" transform="translate(235.000000, 162.000000) scale(1, -1) translate(-235.000000, -162.000000) "></path>
+        </g>
+    </g>
+</svg>
